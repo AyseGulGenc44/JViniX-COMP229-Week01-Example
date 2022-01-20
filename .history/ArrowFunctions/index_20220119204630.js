@@ -11,9 +11,9 @@
 // document.getElementById("btn").addEventListener("click", hello);
 
 
- //var numbers = [1,2,3,4,5];
- //const squares = numbers.map(n => n * n);
- //document.write(squares);
+ var numbers = [1,2,3,4,5];
+ const squares = numbers.map(n => n * n);
+ document.write(squares);
 
 // var evens = new Array();
 // numbers.forEach(n => {

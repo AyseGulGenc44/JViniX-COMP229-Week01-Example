@@ -1,11 +1,11 @@
 // Imports the functions halfOf from the lib.js module
- import doSomething from './lib.js';
+// import doSomething from './lib.js';
 
- //console.log("halfOf: " + halfOf(84) );
+// console.log("halfOf: " + halfOf(84) );
 
- //console.log("multiply:" + multiply(84, 2) );
+// console.log("multiply:" + multiply(84, 2) );
 
-//doSomething();
+// doSomething();
 
 import { flag, touch } from './validator.js';
 console.log(flag); //false
